@@ -1,0 +1,60 @@
+h1{
+    background-color: #DE7AF5;
+    text-indent: 8cm;
+    
+    
+}
+h1 p{
+    float:left;
+    font-display: auto;
+}
+h2{
+    text-transform: capitalize;
+}
+h3{
+    text-transform: uppercase; 
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+}
+#objeto{
+    padding-left: 200px;
+    float: left;
+}
+header{
+    width: 100%;
+    overflow:hidden;
+    background-color: #DE7AF5;
+    margin-bottom: 20 px;
+    max-width: 5000px;
+}
+header .titulo{
+    float:left;
+    font-size:20px;
+    line-height:90px;
+    word-spacing: 5px;
+}
+header nav{
+    line-height: 85px;
+    display: inline-block;
+    text-indent: 60px;
+    
+}
+#objeto img{
+    width: 310px;
+    border-radius: 5px;
+    display: inline-block;
+    word-spacing: 1000px;
+    display: block 5px;
+    word-spacing: 5px;
+} 
+h1 nav{
+    display: flex;
+}
+body{
+    display: block;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+}
+
